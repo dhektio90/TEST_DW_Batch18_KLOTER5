@@ -8,3 +8,7 @@ Notice, Gunakan perulangan dan dilarang menggunakan rumus matematika            
 
 
 2.Cita Citata bercita-cita mempunyai sebuah produk software Dangdut. Cita Citata ingin setiap softwarenya mempunyai serial number dengan format sebagai berikut: xxxx-xxxx-xxxx-xxxx, contoh: bu6e-wdts-7fo4-8ipx. Buatkan function untuk meng-generate serial number yang dibutuhkan oleh Cita Citata, 
+
+
+
+3.Di sebuah function memiliki sebuah parameter berupa array yang berisi array yang berisi abjad, yang mempunyai tugas untuk mengurutkan array terpendek ke terpanjang, dan juga mengurutkan abjad di dalamnya dari a ke z. Dilarang menggunakan built in function array_multisort
